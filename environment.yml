@@ -2,11 +2,10 @@ name: linear_models
 channels:
   - defaults
 dependencies:
-  - r-essentials
   - python=3.8
-  - r-base=3.6.1
   - scikit-learn
   - jupyterlab
   - statsmodels
   - pandas
+  - seaborn
 prefix: /Users/scohurst/opt/anaconda3/envs/linear_models
