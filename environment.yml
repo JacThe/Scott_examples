@@ -8,4 +8,9 @@ dependencies:
   - statsmodels
   - pandas
   - seaborn
-prefix: /Users/scohurst/opt/anaconda3/envs/linear_models
+  - r-base
+  - r-tidyverse
+  - r-broom
+  - r-irkernel
+  - conda-forge::r-fixest
+  - conda-forge::r-patchwork
